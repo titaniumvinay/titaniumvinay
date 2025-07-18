@@ -21,4 +21,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titaniumvinay&" alt="titaniumvinay" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/eruiluvatar0301)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titaniumvinay&" alt="titaniumvinay" /></p>
+<img src="https://leetcard.jacoblin.cool/eruiluvatar0301" alt="Leetcode Stats">
+
