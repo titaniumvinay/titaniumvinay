@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Apache Pulsar**
+- 🌱 I’m currently learning **Quarkus**
 
 - 💬 Ask me about **Java**
 
